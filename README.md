@@ -8,9 +8,10 @@
  was injected into the Bitswift Blockchain within transaction ID:
  4:4241eba0807c8bdcfd6ff9e48704e02b683590416cec65712a744704d4533c50
  
- The app was then later run using the included secretforRandom which determined a random winner.  
+ The app was later run using the included secretforRandom which determined a random winner.  
  
-To run the application extract the contents of a tar file onto your computer running a local Ardor server.
+To run the application extract the contents of the tar file onto your system running a local Ardor server setup as an Archival node.
+
 Edit the configuration.json file to meet your particular application requirements. 
 
  An sample of the configuration.json file is below:
