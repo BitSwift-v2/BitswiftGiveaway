@@ -16,26 +16,26 @@ Edit the configuration.json file to meet your particular application requirement
  An sample of the configuration.json file is below:
 
 {
-  "contractName": "BitswiftGiveAway", //this can be anything you want to call the contract 
+  "contractName": "BitswiftGiveAway", 
 
-  "secretForRandom": "4eca220d667c151c66f3abf0d1f9b7829e4627558dacaec56e0a07f4b3e5cf32", //64 bit random hex string used to determine a random winner
+  "secretForRandom": "4eca220d667c151c66f3abf0d1f9b7829e4627558dacaec56e0a07f4b3e5cf32",
 
   "useLowSecurityRandom": false,
   "isVerifier": true,
   "verifyAccount": "15925665273593510758",
 
-  "messageForPick" : "MicrosoftSurfaceTablet", //The specific message the application will look for
+  "messageForPick" : "MicrosoftSurfaceTablet", 
 
-  "heightStart": 2027000, //Application will start at this block height
-  "heightStop": 2132393, //Application will stop at this block height
+  "heightStart": 2027000,
+  "heightStop": 2132393, 
 
-  "transactionChain": 4, //Specify the chain the application is running on
+  "transactionChain": 4, 
 
   "stateRootDirectory": "state",
   "reloadAndRescan" : false,
 
   "api": {
-    "password": "xxx", //the api password of your blockchain node set in your nxt.properties file
+    "password": "xxx", 
     "host": "localhost",
     "port": "40004"
   },
