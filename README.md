@@ -3,7 +3,7 @@
  
  This source code was used to determine the winner of the Bitswift Tablet Giveaway.
  
- The SHA-256 HASH of this .TAR file, 
+ The SHA-256 HASH of the included final.tar file, 
 "0c42b13496380876da25e83f66b9d79e38ffc57ac3586bb9cc77416b86728afc"
  was injected into the Bitswift Blockchain within transaction ID:
  4:4241eba0807c8bdcfd6ff9e48704e02b683590416cec65712a744704d4533c50
